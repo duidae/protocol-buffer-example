@@ -12,7 +12,7 @@
 * $ git clone https://github.com/duidae/protocol-buffer-example.git
 * $ make
 
-## problem
+## problems(solved)
 * Makefile中会用pkg-config命令检测环境变量，但是没有设置PKG_CONFIG_PATH，找不到protobuf.pc这个文件
   * $ export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig 
 ```
