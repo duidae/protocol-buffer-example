@@ -1,6 +1,6 @@
 # protocol-buffer-example
 
-## 1. install
+## 1. install on CentOS 7
 * https://github.com/google/protobuf/blob/master/src/README.md
 * $ ./configure
 * $ make
