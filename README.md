@@ -1,6 +1,6 @@
 # protocol-buffer-example
 
-## 1. install on CentOS 7
+## 1. install protocol buffer on CentOS 7
 * https://github.com/google/protobuf/blob/master/src/README.md
 * $ ./configure
 * $ make
@@ -9,6 +9,7 @@
 * $ sudo ldconfig
 
 ## 2. run example
+* $ git clone https://github.com/duidae/protocol-buffer-example.git
 * $ make
 
 ## problem
