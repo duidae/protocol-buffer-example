@@ -14,12 +14,12 @@ import "google/protobuf/timestamp.proto";
 // [END declaration]
 
 // [START java_declaration]
-option java_package = "com.example.tutorial";
-option java_outer_classname = "AddressBookProtos";
+//option java_package = "com.example.tutorial";
+//option java_outer_classname = "AddressBookProtos";
 // [END java_declaration]
 
 // [START csharp_declaration]
-option csharp_namespace = "Google.Protobuf.Examples.AddressBook";
+//option csharp_namespace = "Google.Protobuf.Examples.AddressBook";
 // [END csharp_declaration]
 
 // [START messages]
