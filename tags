@@ -1,0 +1,304 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddDescriptors	addressbook.pb.cc	/^void AddDescriptors() {$/;"	f	namespace:protobuf_addressbook_2eproto
+AddDescriptorsImpl	addressbook.pb.cc	/^void AddDescriptorsImpl() {$/;"	f	namespace:protobuf_addressbook_2eproto
+AddressBook	addressbook.pb.cc	/^AddressBook::AddressBook()$/;"	f	class:tutorial::AddressBook
+AddressBook	addressbook.pb.cc	/^AddressBook::AddressBook(const AddressBook& from)$/;"	f	class:tutorial::AddressBook
+AddressBook	addressbook.pb.h	/^    : AddressBook() {$/;"	f	class:tutorial::AddressBook
+AddressBook	addressbook.pb.h	/^class AddressBook : public ::google::protobuf::Message \/* @@protoc_insertion_point(class_definition:tutorial.AddressBook) *\/ {$/;"	c	namespace:tutorial
+AddressBookDefaultTypeInternal	addressbook.pb.cc	/^class AddressBookDefaultTypeInternal {$/;"	c	namespace:tutorial	file:
+ByteSizeLong	addressbook.pb.cc	/^size_t AddressBook::ByteSizeLong() const {$/;"	f	class:tutorial::AddressBook
+ByteSizeLong	addressbook.pb.cc	/^size_t Person::ByteSizeLong() const {$/;"	f	class:tutorial::Person
+ByteSizeLong	addressbook.pb.cc	/^size_t Person_PhoneNumber::ByteSizeLong() const {$/;"	f	class:tutorial::Person_PhoneNumber
+Clear	addressbook.pb.cc	/^void AddressBook::Clear() {$/;"	f	class:tutorial::AddressBook
+Clear	addressbook.pb.cc	/^void Person::Clear() {$/;"	f	class:tutorial::Person
+Clear	addressbook.pb.cc	/^void Person_PhoneNumber::Clear() {$/;"	f	class:tutorial::Person_PhoneNumber
+CopyFrom	addressbook.pb.cc	/^void AddressBook::CopyFrom(const ::google::protobuf::Message& from) {$/;"	f	class:tutorial::AddressBook
+CopyFrom	addressbook.pb.cc	/^void AddressBook::CopyFrom(const AddressBook& from) {$/;"	f	class:tutorial::AddressBook
+CopyFrom	addressbook.pb.cc	/^void Person::CopyFrom(const ::google::protobuf::Message& from) {$/;"	f	class:tutorial::Person
+CopyFrom	addressbook.pb.cc	/^void Person::CopyFrom(const Person& from) {$/;"	f	class:tutorial::Person
+CopyFrom	addressbook.pb.cc	/^void Person_PhoneNumber::CopyFrom(const ::google::protobuf::Message& from) {$/;"	f	class:tutorial::Person_PhoneNumber
+CopyFrom	addressbook.pb.cc	/^void Person_PhoneNumber::CopyFrom(const Person_PhoneNumber& from) {$/;"	f	class:tutorial::Person_PhoneNumber
+CreateMaybeMessage	addressbook.pb.cc	/^template<> GOOGLE_PROTOBUF_ATTRIBUTE_NOINLINE ::tutorial::AddressBook* Arena::CreateMaybeMessage< ::tutorial::AddressBook >(Arena* arena) {$/;"	f	class:google::protobuf::Arena
+CreateMaybeMessage	addressbook.pb.cc	/^template<> GOOGLE_PROTOBUF_ATTRIBUTE_NOINLINE ::tutorial::Person* Arena::CreateMaybeMessage< ::tutorial::Person >(Arena* arena) {$/;"	f	class:google::protobuf::Arena
+CreateMaybeMessage	addressbook.pb.cc	/^template<> GOOGLE_PROTOBUF_ATTRIBUTE_NOINLINE ::tutorial::Person_PhoneNumber* Arena::CreateMaybeMessage< ::tutorial::Person_PhoneNumber >(Arena* arena) {$/;"	f	class:google::protobuf::Arena
+DO_	addressbook.pb.cc	1034;"	d	file:
+DO_	addressbook.pb.cc	282;"	d	file:
+DO_	addressbook.pb.cc	338;"	d	file:
+DO_	addressbook.pb.cc	597;"	d	file:
+DO_	addressbook.pb.cc	692;"	d	file:
+DO_	addressbook.pb.cc	997;"	d	file:
+GOOGLE_PROTOBUF_ATTRIBUTE_COLD	addressbook.pb.cc	/^void protobuf_RegisterTypes(const ::std::string&) GOOGLE_PROTOBUF_ATTRIBUTE_COLD;$/;"	m	namespace:protobuf_addressbook_2eproto	file:
+GetArenaNoVirtual	addressbook.pb.h	/^  inline ::google::protobuf::Arena* GetArenaNoVirtual() const {$/;"	f	class:tutorial::AddressBook
+GetArenaNoVirtual	addressbook.pb.h	/^  inline ::google::protobuf::Arena* GetArenaNoVirtual() const {$/;"	f	class:tutorial::Person
+GetArenaNoVirtual	addressbook.pb.h	/^  inline ::google::protobuf::Arena* GetArenaNoVirtual() const {$/;"	f	class:tutorial::Person_PhoneNumber
+GetEnumDescriptor	addressbook.pb.h	/^inline const EnumDescriptor* GetEnumDescriptor< ::tutorial::Person_PhoneType>() {$/;"	f	namespace:google::protobuf
+GetMetadata	addressbook.pb.cc	/^::google::protobuf::Metadata AddressBook::GetMetadata() const {$/;"	f	class:tutorial::AddressBook
+GetMetadata	addressbook.pb.cc	/^::google::protobuf::Metadata Person::GetMetadata() const {$/;"	f	class:tutorial::Person
+GetMetadata	addressbook.pb.cc	/^::google::protobuf::Metadata Person_PhoneNumber::GetMetadata() const {$/;"	f	class:tutorial::Person_PhoneNumber
+HOME	addressbook.pb.cc	/^const Person_PhoneType Person::HOME;$/;"	m	class:tutorial::Person	file:
+HOME	addressbook.pb.h	/^  static const PhoneType HOME =$/;"	m	class:tutorial::Person
+InitAsDefaultInstance	addressbook.pb.cc	/^void AddressBook::InitAsDefaultInstance() {$/;"	f	class:tutorial::AddressBook
+InitAsDefaultInstance	addressbook.pb.cc	/^void Person::InitAsDefaultInstance() {$/;"	f	class:tutorial::Person
+InitAsDefaultInstance	addressbook.pb.cc	/^void Person_PhoneNumber::InitAsDefaultInstance() {$/;"	f	class:tutorial::Person_PhoneNumber
+InitDefaults	addressbook.pb.cc	/^void InitDefaults() {$/;"	f	namespace:protobuf_addressbook_2eproto
+InitDefaultsAddressBook	addressbook.pb.cc	/^static void InitDefaultsAddressBook() {$/;"	f	namespace:protobuf_addressbook_2eproto
+InitDefaultsPerson	addressbook.pb.cc	/^static void InitDefaultsPerson() {$/;"	f	namespace:protobuf_addressbook_2eproto
+InitDefaultsPerson_PhoneNumber	addressbook.pb.cc	/^static void InitDefaultsPerson_PhoneNumber() {$/;"	f	namespace:protobuf_addressbook_2eproto
+InternalSerializeWithCachedSizesToArray	addressbook.pb.cc	/^::google::protobuf::uint8* AddressBook::InternalSerializeWithCachedSizesToArray($/;"	f	class:tutorial::AddressBook
+InternalSerializeWithCachedSizesToArray	addressbook.pb.cc	/^::google::protobuf::uint8* Person::InternalSerializeWithCachedSizesToArray($/;"	f	class:tutorial::Person
+InternalSerializeWithCachedSizesToArray	addressbook.pb.cc	/^::google::protobuf::uint8* Person_PhoneNumber::InternalSerializeWithCachedSizesToArray($/;"	f	class:tutorial::Person_PhoneNumber
+InternalSwap	addressbook.pb.cc	/^void AddressBook::InternalSwap(AddressBook* other) {$/;"	f	class:tutorial::AddressBook
+InternalSwap	addressbook.pb.cc	/^void Person::InternalSwap(Person* other) {$/;"	f	class:tutorial::Person
+InternalSwap	addressbook.pb.cc	/^void Person_PhoneNumber::InternalSwap(Person_PhoneNumber* other) {$/;"	f	class:tutorial::Person_PhoneNumber
+IsInitialized	addressbook.pb.cc	/^bool AddressBook::IsInitialized() const {$/;"	f	class:tutorial::AddressBook
+IsInitialized	addressbook.pb.cc	/^bool Person::IsInitialized() const {$/;"	f	class:tutorial::Person
+IsInitialized	addressbook.pb.cc	/^bool Person_PhoneNumber::IsInitialized() const {$/;"	f	class:tutorial::Person_PhoneNumber
+ListPeople	list_people.cc	/^void ListPeople(const tutorial::AddressBook& address_book) {$/;"	f
+MOBILE	addressbook.pb.cc	/^const Person_PhoneType Person::MOBILE;$/;"	m	class:tutorial::Person	file:
+MOBILE	addressbook.pb.h	/^  static const PhoneType MOBILE =$/;"	m	class:tutorial::Person
+MaybeArenaPtr	addressbook.pb.h	/^  inline void* MaybeArenaPtr() const {$/;"	f	class:tutorial::AddressBook
+MaybeArenaPtr	addressbook.pb.h	/^  inline void* MaybeArenaPtr() const {$/;"	f	class:tutorial::Person
+MaybeArenaPtr	addressbook.pb.h	/^  inline void* MaybeArenaPtr() const {$/;"	f	class:tutorial::Person_PhoneNumber
+MergeFrom	addressbook.pb.cc	/^void AddressBook::MergeFrom(const ::google::protobuf::Message& from) {$/;"	f	class:tutorial::AddressBook
+MergeFrom	addressbook.pb.cc	/^void AddressBook::MergeFrom(const AddressBook& from) {$/;"	f	class:tutorial::AddressBook
+MergeFrom	addressbook.pb.cc	/^void Person::MergeFrom(const ::google::protobuf::Message& from) {$/;"	f	class:tutorial::Person
+MergeFrom	addressbook.pb.cc	/^void Person::MergeFrom(const Person& from) {$/;"	f	class:tutorial::Person
+MergeFrom	addressbook.pb.cc	/^void Person_PhoneNumber::MergeFrom(const ::google::protobuf::Message& from) {$/;"	f	class:tutorial::Person_PhoneNumber
+MergeFrom	addressbook.pb.cc	/^void Person_PhoneNumber::MergeFrom(const Person_PhoneNumber& from) {$/;"	f	class:tutorial::Person_PhoneNumber
+MergePartialFromCodedStream	addressbook.pb.cc	/^bool AddressBook::MergePartialFromCodedStream($/;"	f	class:tutorial::AddressBook
+MergePartialFromCodedStream	addressbook.pb.cc	/^bool Person::MergePartialFromCodedStream($/;"	f	class:tutorial::Person
+MergePartialFromCodedStream	addressbook.pb.cc	/^bool Person_PhoneNumber::MergePartialFromCodedStream($/;"	f	class:tutorial::Person_PhoneNumber
+PROTOBUF_INCLUDED_addressbook_2eproto	addressbook.pb.h	5;"	d
+PROTOBUF_INTERNAL_EXPORT_protobuf_addressbook_2eproto	addressbook.pb.h	36;"	d
+Person	addressbook.pb.cc	/^Person::Person()$/;"	f	class:tutorial::Person
+Person	addressbook.pb.cc	/^Person::Person(const Person& from)$/;"	f	class:tutorial::Person
+Person	addressbook.pb.h	/^    : Person() {$/;"	f	class:tutorial::Person
+Person	addressbook.pb.h	/^class Person : public ::google::protobuf::Message \/* @@protoc_insertion_point(class_definition:tutorial.Person) *\/ {$/;"	c	namespace:tutorial
+PersonDefaultTypeInternal	addressbook.pb.cc	/^class PersonDefaultTypeInternal {$/;"	c	namespace:tutorial	file:
+Person_PhoneNumber	addressbook.pb.cc	/^Person_PhoneNumber::Person_PhoneNumber()$/;"	f	class:tutorial::Person_PhoneNumber
+Person_PhoneNumber	addressbook.pb.cc	/^Person_PhoneNumber::Person_PhoneNumber(const Person_PhoneNumber& from)$/;"	f	class:tutorial::Person_PhoneNumber
+Person_PhoneNumber	addressbook.pb.h	/^    : Person_PhoneNumber() {$/;"	f	class:tutorial::Person_PhoneNumber
+Person_PhoneNumber	addressbook.pb.h	/^class Person_PhoneNumber : public ::google::protobuf::Message \/* @@protoc_insertion_point(class_definition:tutorial.Person.PhoneNumber) *\/ {$/;"	c	namespace:tutorial
+Person_PhoneNumberDefaultTypeInternal	addressbook.pb.cc	/^class Person_PhoneNumberDefaultTypeInternal {$/;"	c	namespace:tutorial	file:
+Person_PhoneType	addressbook.pb.h	/^enum Person_PhoneType {$/;"	g	namespace:tutorial
+Person_PhoneType_HOME	addressbook.pb.h	/^  Person_PhoneType_HOME = 1,$/;"	e	enum:tutorial::Person_PhoneType
+Person_PhoneType_IsValid	addressbook.pb.cc	/^bool Person_PhoneType_IsValid(int value) {$/;"	f	namespace:tutorial
+Person_PhoneType_MOBILE	addressbook.pb.h	/^  Person_PhoneType_MOBILE = 0,$/;"	e	enum:tutorial::Person_PhoneType
+Person_PhoneType_Name	addressbook.pb.h	/^inline const ::std::string& Person_PhoneType_Name(Person_PhoneType value) {$/;"	f	namespace:tutorial
+Person_PhoneType_Parse	addressbook.pb.h	/^inline bool Person_PhoneType_Parse($/;"	f	namespace:tutorial
+Person_PhoneType_Person_PhoneType_INT_MAX_SENTINEL_DO_NOT_USE_	addressbook.pb.h	/^  Person_PhoneType_Person_PhoneType_INT_MAX_SENTINEL_DO_NOT_USE_ = ::google::protobuf::kint32max$/;"	e	enum:tutorial::Person_PhoneType
+Person_PhoneType_Person_PhoneType_INT_MIN_SENTINEL_DO_NOT_USE_	addressbook.pb.h	/^  Person_PhoneType_Person_PhoneType_INT_MIN_SENTINEL_DO_NOT_USE_ = ::google::protobuf::kint32min,$/;"	e	enum:tutorial::Person_PhoneType
+Person_PhoneType_PhoneType_ARRAYSIZE	addressbook.pb.h	/^const int Person_PhoneType_PhoneType_ARRAYSIZE = Person_PhoneType_PhoneType_MAX + 1;$/;"	m	namespace:tutorial
+Person_PhoneType_PhoneType_MAX	addressbook.pb.h	/^const Person_PhoneType Person_PhoneType_PhoneType_MAX = Person_PhoneType_WORK;$/;"	m	namespace:tutorial
+Person_PhoneType_PhoneType_MIN	addressbook.pb.h	/^const Person_PhoneType Person_PhoneType_PhoneType_MIN = Person_PhoneType_MOBILE;$/;"	m	namespace:tutorial
+Person_PhoneType_WORK	addressbook.pb.h	/^  Person_PhoneType_WORK = 2,$/;"	e	enum:tutorial::Person_PhoneType
+Person_PhoneType_descriptor	addressbook.pb.cc	/^const ::google::protobuf::EnumDescriptor* Person_PhoneType_descriptor() {$/;"	f	namespace:tutorial
+PhoneNumber	addressbook.pb.h	/^  typedef Person_PhoneNumber PhoneNumber;$/;"	t	class:tutorial::Person
+PhoneType	addressbook.pb.h	/^  typedef Person_PhoneType PhoneType;$/;"	t	class:tutorial::Person
+PhoneType_ARRAYSIZE	addressbook.pb.cc	/^const int Person::PhoneType_ARRAYSIZE;$/;"	m	class:tutorial::Person	file:
+PhoneType_ARRAYSIZE	addressbook.pb.h	/^  static const int PhoneType_ARRAYSIZE =$/;"	m	class:tutorial::Person
+PhoneType_IsValid	addressbook.pb.h	/^  static inline bool PhoneType_IsValid(int value) {$/;"	f	class:tutorial::Person
+PhoneType_MAX	addressbook.pb.cc	/^const Person_PhoneType Person::PhoneType_MAX;$/;"	m	class:tutorial::Person	file:
+PhoneType_MAX	addressbook.pb.h	/^  static const PhoneType PhoneType_MAX =$/;"	m	class:tutorial::Person
+PhoneType_MIN	addressbook.pb.cc	/^const Person_PhoneType Person::PhoneType_MIN;$/;"	m	class:tutorial::Person	file:
+PhoneType_MIN	addressbook.pb.h	/^  static const PhoneType PhoneType_MIN =$/;"	m	class:tutorial::Person
+PhoneType_Name	addressbook.pb.h	/^  static inline const ::std::string& PhoneType_Name(PhoneType value) {$/;"	f	class:tutorial::Person
+PhoneType_Parse	addressbook.pb.h	/^  static inline bool PhoneType_Parse(const ::std::string& name,$/;"	f	class:tutorial::Person
+PhoneType_descriptor	addressbook.pb.h	/^  PhoneType_descriptor() {$/;"	f	class:tutorial::Person
+PromptForAddress	add_person.cc	/^void PromptForAddress(tutorial::Person* person) {$/;"	f
+SerializeWithCachedSizes	addressbook.pb.cc	/^void AddressBook::SerializeWithCachedSizes($/;"	f	class:tutorial::AddressBook
+SerializeWithCachedSizes	addressbook.pb.cc	/^void Person::SerializeWithCachedSizes($/;"	f	class:tutorial::Person
+SerializeWithCachedSizes	addressbook.pb.cc	/^void Person_PhoneNumber::SerializeWithCachedSizes($/;"	f	class:tutorial::Person_PhoneNumber
+SetCachedSize	addressbook.pb.cc	/^void AddressBook::SetCachedSize(int size) const {$/;"	f	class:tutorial::AddressBook
+SetCachedSize	addressbook.pb.cc	/^void Person::SetCachedSize(int size) const {$/;"	f	class:tutorial::Person
+SetCachedSize	addressbook.pb.cc	/^void Person_PhoneNumber::SetCachedSize(int size) const {$/;"	f	class:tutorial::Person_PhoneNumber
+SharedCtor	addressbook.pb.cc	/^void AddressBook::SharedCtor() {$/;"	f	class:tutorial::AddressBook
+SharedCtor	addressbook.pb.cc	/^void Person::SharedCtor() {$/;"	f	class:tutorial::Person
+SharedCtor	addressbook.pb.cc	/^void Person_PhoneNumber::SharedCtor() {$/;"	f	class:tutorial::Person_PhoneNumber
+SharedDtor	addressbook.pb.cc	/^void AddressBook::SharedDtor() {$/;"	f	class:tutorial::AddressBook
+SharedDtor	addressbook.pb.cc	/^void Person::SharedDtor() {$/;"	f	class:tutorial::Person
+SharedDtor	addressbook.pb.cc	/^void Person_PhoneNumber::SharedDtor() {$/;"	f	class:tutorial::Person_PhoneNumber
+StaticDescriptorInitializer	addressbook.pb.cc	/^  StaticDescriptorInitializer() {$/;"	f	struct:protobuf_addressbook_2eproto::StaticDescriptorInitializer
+StaticDescriptorInitializer	addressbook.pb.cc	/^struct StaticDescriptorInitializer {$/;"	s	namespace:protobuf_addressbook_2eproto	file:
+Swap	addressbook.pb.cc	/^void AddressBook::Swap(AddressBook* other) {$/;"	f	class:tutorial::AddressBook
+Swap	addressbook.pb.cc	/^void Person::Swap(Person* other) {$/;"	f	class:tutorial::Person
+Swap	addressbook.pb.cc	/^void Person_PhoneNumber::Swap(Person_PhoneNumber* other) {$/;"	f	class:tutorial::Person_PhoneNumber
+TableStruct	addressbook.pb.h	/^struct TableStruct {$/;"	s	namespace:protobuf_addressbook_2eproto
+WORK	addressbook.pb.cc	/^const Person_PhoneType Person::WORK;$/;"	m	class:tutorial::Person	file:
+WORK	addressbook.pb.h	/^  static const PhoneType WORK =$/;"	m	class:tutorial::Person
+_AddressBook_default_instance_	addressbook.pb.cc	/^} _AddressBook_default_instance_;$/;"	m	namespace:tutorial	typeref:class:tutorial::AddressBookDefaultTypeInternal	file:
+_Person_PhoneNumber_default_instance_	addressbook.pb.cc	/^} _Person_PhoneNumber_default_instance_;$/;"	m	namespace:tutorial	typeref:class:tutorial::Person_PhoneNumberDefaultTypeInternal	file:
+_Person_default_instance_	addressbook.pb.cc	/^} _Person_default_instance_;$/;"	m	namespace:tutorial	typeref:class:tutorial::PersonDefaultTypeInternal	file:
+_cached_size_	addressbook.pb.h	/^  mutable ::google::protobuf::internal::CachedSize _cached_size_;$/;"	m	class:tutorial::AddressBook
+_cached_size_	addressbook.pb.h	/^  mutable ::google::protobuf::internal::CachedSize _cached_size_;$/;"	m	class:tutorial::Person
+_cached_size_	addressbook.pb.h	/^  mutable ::google::protobuf::internal::CachedSize _cached_size_;$/;"	m	class:tutorial::Person_PhoneNumber
+_instance	addressbook.pb.cc	/^      _instance;$/;"	m	class:tutorial::AddressBookDefaultTypeInternal	file:
+_instance	addressbook.pb.cc	/^      _instance;$/;"	m	class:tutorial::PersonDefaultTypeInternal	file:
+_instance	addressbook.pb.cc	/^      _instance;$/;"	m	class:tutorial::Person_PhoneNumberDefaultTypeInternal	file:
+_internal_last_updated	addressbook.pb.h	/^inline const ::google::protobuf::Timestamp& Person::_internal_last_updated() const {$/;"	f	class:tutorial::Person
+_internal_metadata_	addressbook.pb.h	/^  ::google::protobuf::internal::InternalMetadataWithArena _internal_metadata_;$/;"	m	class:tutorial::AddressBook
+_internal_metadata_	addressbook.pb.h	/^  ::google::protobuf::internal::InternalMetadataWithArena _internal_metadata_;$/;"	m	class:tutorial::Person
+_internal_metadata_	addressbook.pb.h	/^  ::google::protobuf::internal::InternalMetadataWithArena _internal_metadata_;$/;"	m	class:tutorial::Person_PhoneNumber
+add_people	addressbook.pb.h	/^inline ::tutorial::Person* AddressBook::add_people() {$/;"	f	class:tutorial::AddressBook
+add_phones	addressbook.pb.h	/^inline ::tutorial::Person_PhoneNumber* Person::add_phones() {$/;"	f	class:tutorial::Person
+aux	addressbook.pb.h	/^  static const ::google::protobuf::internal::AuxillaryParseTableField aux[];$/;"	m	struct:protobuf_addressbook_2eproto::TableStruct
+clear_email	addressbook.pb.h	/^inline void Person::clear_email() {$/;"	f	class:tutorial::Person
+clear_id	addressbook.pb.h	/^inline void Person::clear_id() {$/;"	f	class:tutorial::Person
+clear_last_updated	addressbook.pb.cc	/^void Person::clear_last_updated() {$/;"	f	class:tutorial::Person
+clear_name	addressbook.pb.h	/^inline void Person::clear_name() {$/;"	f	class:tutorial::Person
+clear_number	addressbook.pb.h	/^inline void Person_PhoneNumber::clear_number() {$/;"	f	class:tutorial::Person_PhoneNumber
+clear_people	addressbook.pb.h	/^inline void AddressBook::clear_people() {$/;"	f	class:tutorial::AddressBook
+clear_phones	addressbook.pb.h	/^inline void Person::clear_phones() {$/;"	f	class:tutorial::Person
+clear_type	addressbook.pb.h	/^inline void Person_PhoneNumber::clear_type() {$/;"	f	class:tutorial::Person_PhoneNumber
+default_instance	addressbook.pb.cc	/^const AddressBook& AddressBook::default_instance() {$/;"	f	class:tutorial::AddressBook
+default_instance	addressbook.pb.cc	/^const Person& Person::default_instance() {$/;"	f	class:tutorial::Person
+default_instance	addressbook.pb.cc	/^const Person_PhoneNumber& Person_PhoneNumber::default_instance() {$/;"	f	class:tutorial::Person_PhoneNumber
+descriptor	addressbook.pb.cc	/^const ::google::protobuf::Descriptor* AddressBook::descriptor() {$/;"	f	class:tutorial::AddressBook
+descriptor	addressbook.pb.cc	/^const ::google::protobuf::Descriptor* Person::descriptor() {$/;"	f	class:tutorial::Person
+descriptor	addressbook.pb.cc	/^const ::google::protobuf::Descriptor* Person_PhoneNumber::descriptor() {$/;"	f	class:tutorial::Person_PhoneNumber
+email	addressbook.pb.h	/^inline const ::std::string& Person::email() const {$/;"	f	class:tutorial::Person
+email_	addressbook.pb.h	/^  ::google::protobuf::internal::ArenaStringPtr email_;$/;"	m	class:tutorial::Person
+entries	addressbook.pb.h	/^  static const ::google::protobuf::internal::ParseTableField entries[];$/;"	m	struct:protobuf_addressbook_2eproto::TableStruct
+field_metadata	addressbook.pb.h	/^  static const ::google::protobuf::internal::FieldMetadata field_metadata[];$/;"	m	struct:protobuf_addressbook_2eproto::TableStruct
+file_default_instances	addressbook.pb.cc	/^static ::google::protobuf::Message const * const file_default_instances[] = {$/;"	m	class:protobuf_addressbook_2eproto::google::protobuf	file:
+file_level_enum_descriptors	addressbook.pb.cc	/^const ::google::protobuf::EnumDescriptor* file_level_enum_descriptors[1];$/;"	m	namespace:protobuf_addressbook_2eproto	file:
+file_level_metadata	addressbook.pb.cc	/^::google::protobuf::Metadata file_level_metadata[3];$/;"	m	namespace:protobuf_addressbook_2eproto	file:
+final	addressbook.pb.h	/^      ::google::protobuf::io::CodedInputStream* input) final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^      ::google::protobuf::io::CodedInputStream* input) final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^      ::google::protobuf::io::CodedInputStream* input) final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^      ::google::protobuf::io::CodedOutputStream* output) const final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^      ::google::protobuf::io::CodedOutputStream* output) const final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^      ::google::protobuf::io::CodedOutputStream* output) const final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^      bool deterministic, ::google::protobuf::uint8* target) const final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^      bool deterministic, ::google::protobuf::uint8* target) const final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^      bool deterministic, ::google::protobuf::uint8* target) const final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^  ::google::protobuf::Metadata GetMetadata() const final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^  ::google::protobuf::Metadata GetMetadata() const final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^  ::google::protobuf::Metadata GetMetadata() const final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^  bool IsInitialized() const final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^  bool IsInitialized() const final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^  bool IsInitialized() const final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^  size_t ByteSizeLong() const final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^  size_t ByteSizeLong() const final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^  size_t ByteSizeLong() const final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^  void Clear() final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^  void Clear() final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^  void Clear() final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^  void CopyFrom(const ::google::protobuf::Message& from) final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^  void CopyFrom(const ::google::protobuf::Message& from) final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^  void CopyFrom(const ::google::protobuf::Message& from) final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^  void MergeFrom(const ::google::protobuf::Message& from) final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^  void MergeFrom(const ::google::protobuf::Message& from) final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^  void MergeFrom(const ::google::protobuf::Message& from) final;$/;"	m	class:tutorial::Person_PhoneNumber
+final	addressbook.pb.h	/^  void SetCachedSize(int size) const final;$/;"	m	class:tutorial::AddressBook
+final	addressbook.pb.h	/^  void SetCachedSize(int size) const final;$/;"	m	class:tutorial::Person
+final	addressbook.pb.h	/^  void SetCachedSize(int size) const final;$/;"	m	class:tutorial::Person_PhoneNumber
+google	addressbook.pb.cc	/^namespace google {$/;"	n	file:
+google	addressbook.pb.h	/^namespace google {$/;"	n
+has_last_updated	addressbook.pb.h	/^inline bool Person::has_last_updated() const {$/;"	f	class:tutorial::Person
+id	addressbook.pb.h	/^inline ::google::protobuf::int32 Person::id() const {$/;"	f	class:tutorial::Person
+id_	addressbook.pb.h	/^  ::google::protobuf::int32 id_;$/;"	m	class:tutorial::Person
+internal_default_instance	addressbook.pb.h	/^  static inline const AddressBook* internal_default_instance() {$/;"	f	class:tutorial::AddressBook
+internal_default_instance	addressbook.pb.h	/^  static inline const Person* internal_default_instance() {$/;"	f	class:tutorial::Person
+internal_default_instance	addressbook.pb.h	/^  static inline const Person_PhoneNumber* internal_default_instance() {$/;"	f	class:tutorial::Person_PhoneNumber
+is_proto_enum	addressbook.pb.h	/^template <> struct is_proto_enum< ::tutorial::Person_PhoneType> : ::std::true_type {};$/;"	s	namespace:google::protobuf
+kEmailFieldNumber	addressbook.pb.cc	/^const int Person::kEmailFieldNumber;$/;"	m	class:tutorial::Person	file:
+kEmailFieldNumber	addressbook.pb.h	/^  static const int kEmailFieldNumber = 3;$/;"	m	class:tutorial::Person
+kIdFieldNumber	addressbook.pb.cc	/^const int Person::kIdFieldNumber;$/;"	m	class:tutorial::Person	file:
+kIdFieldNumber	addressbook.pb.h	/^  static const int kIdFieldNumber = 2;$/;"	m	class:tutorial::Person
+kIndexInFileMessages	addressbook.pb.h	/^  static constexpr int kIndexInFileMessages =$/;"	m	class:tutorial::AddressBook
+kIndexInFileMessages	addressbook.pb.h	/^  static constexpr int kIndexInFileMessages =$/;"	m	class:tutorial::Person
+kIndexInFileMessages	addressbook.pb.h	/^  static constexpr int kIndexInFileMessages =$/;"	m	class:tutorial::Person_PhoneNumber
+kLastUpdatedFieldNumber	addressbook.pb.cc	/^const int Person::kLastUpdatedFieldNumber;$/;"	m	class:tutorial::Person	file:
+kLastUpdatedFieldNumber	addressbook.pb.h	/^  static const int kLastUpdatedFieldNumber = 5;$/;"	m	class:tutorial::Person
+kNameFieldNumber	addressbook.pb.cc	/^const int Person::kNameFieldNumber;$/;"	m	class:tutorial::Person	file:
+kNameFieldNumber	addressbook.pb.h	/^  static const int kNameFieldNumber = 1;$/;"	m	class:tutorial::Person
+kNumberFieldNumber	addressbook.pb.cc	/^const int Person_PhoneNumber::kNumberFieldNumber;$/;"	m	class:tutorial::Person_PhoneNumber	file:
+kNumberFieldNumber	addressbook.pb.h	/^  static const int kNumberFieldNumber = 1;$/;"	m	class:tutorial::Person_PhoneNumber
+kPeopleFieldNumber	addressbook.pb.cc	/^const int AddressBook::kPeopleFieldNumber;$/;"	m	class:tutorial::AddressBook	file:
+kPeopleFieldNumber	addressbook.pb.h	/^  static const int kPeopleFieldNumber = 1;$/;"	m	class:tutorial::AddressBook
+kPhonesFieldNumber	addressbook.pb.cc	/^const int Person::kPhonesFieldNumber;$/;"	m	class:tutorial::Person	file:
+kPhonesFieldNumber	addressbook.pb.h	/^  static const int kPhonesFieldNumber = 4;$/;"	m	class:tutorial::Person
+kTypeFieldNumber	addressbook.pb.cc	/^const int Person_PhoneNumber::kTypeFieldNumber;$/;"	m	class:tutorial::Person_PhoneNumber	file:
+kTypeFieldNumber	addressbook.pb.h	/^  static const int kTypeFieldNumber = 2;$/;"	m	class:tutorial::Person_PhoneNumber
+last_updated	addressbook.pb.h	/^inline const ::google::protobuf::Timestamp& Person::last_updated() const {$/;"	f	class:tutorial::Person
+last_updated_	addressbook.pb.h	/^  ::google::protobuf::Timestamp* last_updated_;$/;"	m	class:tutorial::Person
+main	add_person.cc	/^int main(int argc, char* argv[]) {$/;"	f
+main	list_people.cc	/^int main(int argc, char* argv[]) {$/;"	f
+mutable_email	addressbook.pb.h	/^inline ::std::string* Person::mutable_email() {$/;"	f	class:tutorial::Person
+mutable_last_updated	addressbook.pb.h	/^inline ::google::protobuf::Timestamp* Person::mutable_last_updated() {$/;"	f	class:tutorial::Person
+mutable_name	addressbook.pb.h	/^inline ::std::string* Person::mutable_name() {$/;"	f	class:tutorial::Person
+mutable_number	addressbook.pb.h	/^inline ::std::string* Person_PhoneNumber::mutable_number() {$/;"	f	class:tutorial::Person_PhoneNumber
+mutable_people	addressbook.pb.h	/^AddressBook::mutable_people() {$/;"	f	class:tutorial::AddressBook
+mutable_people	addressbook.pb.h	/^inline ::tutorial::Person* AddressBook::mutable_people(int index) {$/;"	f	class:tutorial::AddressBook
+mutable_phones	addressbook.pb.h	/^Person::mutable_phones() {$/;"	f	class:tutorial::Person
+mutable_phones	addressbook.pb.h	/^inline ::tutorial::Person_PhoneNumber* Person::mutable_phones(int index) {$/;"	f	class:tutorial::Person
+name	addressbook.pb.h	/^inline const ::std::string& Person::name() const {$/;"	f	class:tutorial::Person
+name_	addressbook.pb.h	/^  ::google::protobuf::internal::ArenaStringPtr name_;$/;"	m	class:tutorial::Person
+number	addressbook.pb.h	/^inline const ::std::string& Person_PhoneNumber::number() const {$/;"	f	class:tutorial::Person_PhoneNumber
+number_	addressbook.pb.h	/^  ::google::protobuf::internal::ArenaStringPtr number_;$/;"	m	class:tutorial::Person_PhoneNumber
+offsets	addressbook.pb.h	/^  static const ::google::protobuf::uint32 offsets[];$/;"	m	struct:protobuf_addressbook_2eproto::TableStruct
+operator =	addressbook.pb.h	/^  inline AddressBook& operator=(const AddressBook& from) {$/;"	f	class:tutorial::AddressBook
+operator =	addressbook.pb.h	/^  inline Person& operator=(const Person& from) {$/;"	f	class:tutorial::Person
+operator =	addressbook.pb.h	/^  inline Person_PhoneNumber& operator=(const Person_PhoneNumber& from) {$/;"	f	class:tutorial::Person_PhoneNumber
+people	addressbook.pb.h	/^AddressBook::people() const {$/;"	f	class:tutorial::AddressBook
+people	addressbook.pb.h	/^inline const ::tutorial::Person& AddressBook::people(int index) const {$/;"	f	class:tutorial::AddressBook
+people_	addressbook.pb.h	/^  ::google::protobuf::RepeatedPtrField< ::tutorial::Person > people_;$/;"	m	class:tutorial::AddressBook
+people_size	addressbook.pb.h	/^inline int AddressBook::people_size() const {$/;"	f	class:tutorial::AddressBook
+phones	addressbook.pb.h	/^Person::phones() const {$/;"	f	class:tutorial::Person
+phones	addressbook.pb.h	/^inline const ::tutorial::Person_PhoneNumber& Person::phones(int index) const {$/;"	f	class:tutorial::Person
+phones_	addressbook.pb.h	/^  ::google::protobuf::RepeatedPtrField< ::tutorial::Person_PhoneNumber > phones_;$/;"	m	class:tutorial::Person
+phones_size	addressbook.pb.h	/^inline int Person::phones_size() const {$/;"	f	class:tutorial::Person
+protobuf	addressbook.pb.cc	/^namespace protobuf {$/;"	n	namespace:google	file:
+protobuf	addressbook.pb.h	/^namespace protobuf {$/;"	n	namespace:google
+protobuf_AssignDescriptors	addressbook.pb.cc	/^void protobuf_AssignDescriptors() {$/;"	f	namespace:protobuf_addressbook_2eproto
+protobuf_AssignDescriptorsOnce	addressbook.pb.cc	/^void protobuf_AssignDescriptorsOnce() {$/;"	f	namespace:protobuf_addressbook_2eproto
+protobuf_RegisterTypes	addressbook.pb.cc	/^void protobuf_RegisterTypes(const ::std::string&) {$/;"	f	namespace:protobuf_addressbook_2eproto
+protobuf_addressbook_2eproto	addressbook.pb.cc	/^namespace protobuf_addressbook_2eproto {$/;"	n	file:
+protobuf_addressbook_2eproto	addressbook.pb.h	/^namespace protobuf_addressbook_2eproto {$/;"	n
+protobuf_google_2fprotobuf_2ftimestamp_2eproto	addressbook.pb.cc	/^namespace protobuf_google_2fprotobuf_2ftimestamp_2eproto {$/;"	n	file:
+protodesc_cold	addressbook.pb.cc	/^const ::google::protobuf::uint32 TableStruct::offsets[] GOOGLE_PROTOBUF_ATTRIBUTE_SECTION_VARIABLE(protodesc_cold) = {$/;"	m	namespace:protobuf_addressbook_2eproto	file:
+protodesc_cold	addressbook.pb.cc	/^static const ::google::protobuf::internal::MigrationSchema schemas[] GOOGLE_PROTOBUF_ATTRIBUTE_SECTION_VARIABLE(protodesc_cold) = {$/;"	m	namespace:protobuf_addressbook_2eproto	file:
+release_email	addressbook.pb.h	/^inline ::std::string* Person::release_email() {$/;"	f	class:tutorial::Person
+release_last_updated	addressbook.pb.h	/^inline ::google::protobuf::Timestamp* Person::release_last_updated() {$/;"	f	class:tutorial::Person
+release_name	addressbook.pb.h	/^inline ::std::string* Person::release_name() {$/;"	f	class:tutorial::Person
+release_number	addressbook.pb.h	/^inline ::std::string* Person_PhoneNumber::release_number() {$/;"	f	class:tutorial::Person_PhoneNumber
+scc_info_AddressBook	addressbook.pb.cc	/^::google::protobuf::internal::SCCInfo<1> scc_info_AddressBook =$/;"	m	namespace:protobuf_addressbook_2eproto	file:
+scc_info_Person	addressbook.pb.cc	/^::google::protobuf::internal::SCCInfo<2> scc_info_Person =$/;"	m	namespace:protobuf_addressbook_2eproto	file:
+scc_info_Person_PhoneNumber	addressbook.pb.cc	/^::google::protobuf::internal::SCCInfo<0> scc_info_Person_PhoneNumber =$/;"	m	namespace:protobuf_addressbook_2eproto	file:
+schema	addressbook.pb.h	/^  static const ::google::protobuf::internal::ParseTable schema[3];$/;"	m	struct:protobuf_addressbook_2eproto::TableStruct
+serialization_table	addressbook.pb.h	/^  static const ::google::protobuf::internal::SerializationTable serialization_table[];$/;"	m	struct:protobuf_addressbook_2eproto::TableStruct
+set_allocated_email	addressbook.pb.h	/^inline void Person::set_allocated_email(::std::string* email) {$/;"	f	class:tutorial::Person
+set_allocated_last_updated	addressbook.pb.h	/^inline void Person::set_allocated_last_updated(::google::protobuf::Timestamp* last_updated) {$/;"	f	class:tutorial::Person
+set_allocated_name	addressbook.pb.h	/^inline void Person::set_allocated_name(::std::string* name) {$/;"	f	class:tutorial::Person
+set_allocated_number	addressbook.pb.h	/^inline void Person_PhoneNumber::set_allocated_number(::std::string* number) {$/;"	f	class:tutorial::Person_PhoneNumber
+set_email	addressbook.pb.h	/^inline void Person::set_email(::std::string&& value) {$/;"	f	class:tutorial::Person
+set_email	addressbook.pb.h	/^inline void Person::set_email(const ::std::string& value) {$/;"	f	class:tutorial::Person
+set_email	addressbook.pb.h	/^inline void Person::set_email(const char* value) {$/;"	f	class:tutorial::Person
+set_email	addressbook.pb.h	/^inline void Person::set_email(const char* value, size_t size) {$/;"	f	class:tutorial::Person
+set_id	addressbook.pb.h	/^inline void Person::set_id(::google::protobuf::int32 value) {$/;"	f	class:tutorial::Person
+set_name	addressbook.pb.h	/^inline void Person::set_name(::std::string&& value) {$/;"	f	class:tutorial::Person
+set_name	addressbook.pb.h	/^inline void Person::set_name(const ::std::string& value) {$/;"	f	class:tutorial::Person
+set_name	addressbook.pb.h	/^inline void Person::set_name(const char* value) {$/;"	f	class:tutorial::Person
+set_name	addressbook.pb.h	/^inline void Person::set_name(const char* value, size_t size) {$/;"	f	class:tutorial::Person
+set_number	addressbook.pb.h	/^inline void Person_PhoneNumber::set_number(::std::string&& value) {$/;"	f	class:tutorial::Person_PhoneNumber
+set_number	addressbook.pb.h	/^inline void Person_PhoneNumber::set_number(const ::std::string& value) {$/;"	f	class:tutorial::Person_PhoneNumber
+set_number	addressbook.pb.h	/^inline void Person_PhoneNumber::set_number(const char* value) {$/;"	f	class:tutorial::Person_PhoneNumber
+set_number	addressbook.pb.h	/^inline void Person_PhoneNumber::set_number(const char* value, size_t size) {$/;"	f	class:tutorial::Person_PhoneNumber
+set_type	addressbook.pb.h	/^inline void Person_PhoneNumber::set_type(::tutorial::Person_PhoneType value) {$/;"	f	class:tutorial::Person_PhoneNumber
+static_descriptor_initializer	addressbook.pb.cc	/^} static_descriptor_initializer;$/;"	m	namespace:protobuf_addressbook_2eproto	typeref:struct:protobuf_addressbook_2eproto::StaticDescriptorInitializer	file:
+swap	addressbook.pb.h	/^  friend void swap(AddressBook& a, AddressBook& b) {$/;"	f	class:tutorial::AddressBook
+swap	addressbook.pb.h	/^  friend void swap(Person& a, Person& b) {$/;"	f	class:tutorial::Person
+swap	addressbook.pb.h	/^  friend void swap(Person_PhoneNumber& a, Person_PhoneNumber& b) {$/;"	f	class:tutorial::Person_PhoneNumber
+tutorial	addressbook.pb.cc	/^namespace tutorial {$/;"	n	file:
+tutorial	addressbook.pb.h	/^namespace tutorial {$/;"	n
+type	addressbook.pb.h	/^inline ::tutorial::Person_PhoneType Person_PhoneNumber::type() const {$/;"	f	class:tutorial::Person_PhoneNumber
+type_	addressbook.pb.h	/^  int type_;$/;"	m	class:tutorial::Person_PhoneNumber
+~AddressBook	addressbook.pb.cc	/^AddressBook::~AddressBook() {$/;"	f	class:tutorial::AddressBook
+~Person	addressbook.pb.cc	/^Person::~Person() {$/;"	f	class:tutorial::Person
+~Person_PhoneNumber	addressbook.pb.cc	/^Person_PhoneNumber::~Person_PhoneNumber() {$/;"	f	class:tutorial::Person_PhoneNumber
