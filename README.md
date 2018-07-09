@@ -30,3 +30,5 @@ make: *** [add_person_cpp] Error 1
 ```
 ./list_people_cpp: error while loading shared libraries: libprotobuf.so.16: cannot open shared object file: No such file or directory
 ```
+
+* [TODO]上述問題看能否在makefile裡解決? 每次shell都要重新export好煩
